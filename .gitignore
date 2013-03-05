@@ -1,0 +1,6 @@
+# ignore build outputs
+*.out
+*.o
+
+*Debug
+*.metadata
